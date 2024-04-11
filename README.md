@@ -23,7 +23,7 @@ This is a solution to the [Recipe page on Frontend Mentor](https://www.frontendm
 ### Links
 
 - Solution URL: [https://github.com/Adarshpathak1/frontend-m_Recipe-page-responive]
-- Live Site URL: []
+- Live Site URL: [https://recipe-page-adarsh.netlify.app/]
 
 ## My process
 
